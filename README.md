@@ -1,7 +1,7 @@
 # Telegram Bot для відстеження шкідливих звичок
 
 <div align="center">
-  <img src="img/logo.webp" alt="Tg logo" width="623" height="548">
+  <img src="img/logo.webp" alt="Tg logo" width="456" height="386">
 </div>
 
 
